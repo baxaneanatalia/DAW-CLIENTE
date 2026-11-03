@@ -1,0 +1,32 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+margin:20px;
+background-color: #ede6e6;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #6d5656;
+    text-shadow: 3px 3px 4px #f6eded;
+    font-size: 3em;
+}
+li{
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+}
+input[type="text"]{
+    border-radius: 5px;
+    text-shadow: 2px 2px 4px #f6eded;
+    padding: 10px;
+    height: 1ch;
+}
+
+ul{
+    list-style-type :none;
+    padding: 0;
+
+}
